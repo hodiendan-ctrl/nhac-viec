@@ -1,0 +1,29 @@
+{
+  "name": "Nhắc việc",
+  "short_name": "Nhắc việc",
+  "description": "Việc cần làm bay lòng vòng trên màn hình như giấy nhớ.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F9FE",
+  "theme_color": "#4A2BA6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
